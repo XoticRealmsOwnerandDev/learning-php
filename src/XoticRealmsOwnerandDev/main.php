@@ -1,4 +1,4 @@
-this will teach you a bunch of differnt plugin php so you can learn how to code your own plugins/php for plugins/plugin.yml:confi
+this will teach you a bunch of differnt plugin php so you can learn how to code your own plugins/php for plugins/plugin.yml:config.yml
 
 
 Blubberboy333's plugins
@@ -16,4 +16,4 @@ XoticRealmsOwnerAndDev's plugins
 Cratekeys (helped with config and plugin.yml)
 custom-enchants (helping blubber boy with config and plugin.yml)
 Simeple-Kits (needs fixes:and testing:and editing)
-
+TimeRanks (needs testing and bug fixes)
